@@ -1097,7 +1097,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #045f3e;
   text-decoration: none;
 }
 a:hover,
@@ -4944,7 +4944,7 @@ a.badge:focus {
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
   color: #337ab7;
-  background-color: #fff;
+  background-color: #1db775;
 }
 .list-group-item > .badge {
   float: right;

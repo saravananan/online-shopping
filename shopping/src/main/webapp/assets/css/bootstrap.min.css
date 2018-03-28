@@ -158,7 +158,7 @@ sup {
 }
 
 a {
-	color: #007bff;
+	color: #039460;
 	text-decoration: none;
 	background-color: transparent;
 	-webkit-text-decoration-skip: objects
@@ -3959,7 +3959,8 @@ tbody.collapse.show {
 	margin-right: 1rem;
 	font-size: 1.25rem;
 	line-height: inherit;
-	white-space: nowrap
+	white-space: nowrap;
+	color:#545;
 }
 
 .navbar-brand:focus, .navbar-brand:hover {
@@ -5207,8 +5208,8 @@ to {
 .list-group-item.active {
 	z-index: 2;
 	color: #fff;
-	background-color: #007bff;
-	border-color: #007bff
+	background-color: #1db775;
+	border-color: #064a2c
 }
 
 .list-group-flush .list-group-item {
@@ -6149,7 +6150,7 @@ a.bg-light:focus, a.bg-light:hover, button.bg-light:focus, button.bg-light:hover
 }
 
 .bg-dark {
-	background-color: #343a40 !important
+	background-color: #62519a !important
 }
 
 a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover
